@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player\Player_Input.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player\Player_Input.cs" Line="38" Column="22" />
+      <File FileName="Assets\Scripts\Enemy\EnemyAI.cs" Line="68" Column="30" />
+      <File FileName="Assets\Scripts\Motors\Motor_Walk.cs" Line="269" Column="49" />
+      <File FileName="Assets\Scripts\Motors\Motor_Walk_v01.cs" Line="5" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

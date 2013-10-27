@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Camera\Camera_BasicFollow.cs">
+    <Files>
+      <File FileName="..\Roanokonia_02\Assets\Scripts\Player_Mover_CharCon.cs" Line="25" Column="2" />
+      <File FileName="Assets\Scripts\Camera\Camera_FixedFollow.cs" Line="39" Column="1" />
+      <File FileName="Assets\Scripts\Player\Player_Controller.cs" Line="226" Column="76" />
+      <File FileName="Assets\Scripts\Player\Player_Motor.cs" Line="75" Column="72" />
+      <File FileName="Assets\Scripts\Player\Motor_GridMover.cs" Line="227" Column="4" />
+      <File FileName="Assets\Scripts\Camera\Camera_BasicFollow.cs" Line="20" Column="115" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
